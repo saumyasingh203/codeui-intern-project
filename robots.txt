@@ -1,0 +1,6 @@
+User-agent: * 
+Allow: *
+Disallow: /author/*
+Disallow: /public/*
+Disallow: /cdn/*
+Sitemap: https://www.toptrendingserial.com/sitemap.xml

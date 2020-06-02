@@ -1,0 +1,18 @@
+{
+	"name": "TopTrendingSerials",
+	"short_name": "TopTrendingSerials",
+	"display": "standalone",
+	"icons": [
+		{  "src": "https://www.toptrendingserials.com/photos/logo.png",     "type": "image/png", "sizes": "512x512"  },
+		{  "src": "https://www.toptrendingserials.com/photos/maskablelogo.png", "type": "image/png", "sizes": "512x512", "purpose":"maskable"  }  
+	],
+	"start_url": "/",
+	"background_color":"#075e54",
+	"theme_color": "#176b5a",
+	"file_handlers": [
+		{
+			"action": "/",
+			"accept": {  "image/jpeg": [ ".jpg" ]  }
+		}
+	]
+}
